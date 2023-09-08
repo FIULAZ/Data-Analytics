@@ -1,0 +1,2 @@
+- Belajar Excel & G looker
+- Belajar Big Query & Tableau
